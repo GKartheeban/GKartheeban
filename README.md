@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=200&amp;section=header&amp;text=Kartheeban%20G&amp;fontSize=50&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=35&amp;desc=AI%20%26%20Data%20Engineer%20%7C%20ML%20Practitioner%20%7C%20Edge%20AI%20Developer&amp;descAlignY=60&amp;descSize=18" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=200&amp;section=header&amp;text=Kartheeban%20G&amp;fontSize=50&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=35&amp;desc=AI%20Data%20Engineer%20%7C%20ML%20Practitioner%20%7C%20Edge%20AI%20Developer&amp;descAlignY=60&amp;descSize=18" width="100%" alt="header"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=800&lines=Hey+there%2C+I%27m+Kartheeban+%F0%9F%91%8B;Data+Engineer+%7C+AI+Engineer+%7C+ML+Practitioner;Scalable+Pipelines+%7C+Real-Time+Streaming+%7C+Edge+AI;DuckDB+%7C+Spark+%7C+Azure+%7C+LLMs+%7C+YOLOv8)](https://git.io/typing-svg)
+
 
 [![Profile Views](https://komarev.com/ghpvc/?username=GKartheeban&color=70a5fd&style=flat-square&label=Profile+Views)](https://github.com/GKartheeban)
 [![Followers](https://img.shields.io/github/followers/GKartheeban?style=flat-square&color=bf91f3&label=Followers&logo=github)](https://github.com/GKartheeban)
@@ -161,18 +161,9 @@ MLOps &#8594; MLflow, model registries, CI4ML
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <a href="https://github.com/GKartheeban">
-    <img height="185em" src="https://github-readme-stats.vercel.app/api?username=GKartheeban&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=12" alt="GitHub Stats"/>
-  </a>
-  <a href="https://github.com/GKartheeban">
-    <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GKartheeban&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=10&border_radius=12" alt="Top Languages"/>
-  </a>
-</p>
 
----
+
 
 ## 🔥 GitHub Streak
 
@@ -319,7 +310,7 @@ MLOps &#8594; MLflow, model registries, CI4ML
 </p>
 
 <p align="center">
-  <i>"Ship data systems that scale. Build AI that works in the real world."</i>
+  <i>"Data is the new oil. I'm gonna refine it"</i>
   <br/>
   📍 <b>Namakkal, Tamil Nadu, India</b>
 </p>
