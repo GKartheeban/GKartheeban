@@ -8,7 +8,7 @@
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=GKartheeban&color=70a5fd&style=flat-square&label=Profile+Views)](https://github.com/GKartheeban)
+[![Profile Views](https://api.visitorbadge.io/api/visitors?path=github.com%2FGKartheeban&label=Profile%20Views&labelColor=%23555555&countColor=%2370a5fd&style=flat-square)](https://github.com/GKartheeban)
 [![Followers](https://img.shields.io/github/followers/GKartheeban?style=flat-square&color=bf91f3&label=Followers&logo=github)](https://github.com/GKartheeban)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kartheeban%20G-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kartheeban-g-85a783230)
 [![LeetCode](https://img.shields.io/badge/LeetCode-karthee12sekar-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/karthee12sekar/)
@@ -25,21 +25,16 @@
 <tr>
 <td width="60%" valign="middle">
 
-```python
-class Kartheeban:
-    location  = "Namakkal, Tamil Nadu"
-    education = "B.Tech AI & DS, KCE (2025)"
-    now       = "Consultant · 4 projects shipped"
-    open_to   = ["Data Analyst",
-                 "Web Development",
-                 "Data & AI Engineering"]
+<h3>👋 Hey, I'm Kartheeban!</h3>
 
-    def superpower(self):
-        return "Data → model → dashboard → decision"
+<p>I turn raw data into decisions, and ideas into products people actually use: from the database schema to the dashboard to the live website.</p>
 
-    def motto(self):
-        return "Ship systems that scale."
-```
+<p>🎓 &nbsp;<b>B.Tech, AI &amp; Data Science</b> · KCE, Coimbatore (2025)</p>
+<p>💼 &nbsp;<b>Independent Consultant</b> · 4 client projects shipped since Feb 2026</p>
+<p>📍 &nbsp;Namakkal, Tamil Nadu, India</p>
+<p>🎯 &nbsp;<b>Open to:</b> Data Analyst · Web Development · Data &amp; AI Engineering</p>
+
+<br/>
 
 <p>🔭 &nbsp;Building <b>BEACON</b>, an energy analytics platform for commercial buildings</p>
 <p>🐎 &nbsp;Running <b><a href="https://horsemart.in">HorseMart</a></b>, a live bilingual (English/தமிழ்) marketplace</p>
