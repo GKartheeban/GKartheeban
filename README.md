@@ -23,20 +23,22 @@
 
 <table>
 <tr>
-<td width="56%" valign="top">
+<td width="60%" valign="middle">
 
 ```python
 class Kartheeban:
-    location   = "Namakkal, Tamil Nadu, India"
-    education  = "B.Tech, AI & Data Science · KCE Coimbatore (2025)"
-    now        = "Independent Consultant · 4 client projects shipped since Feb 2026"
-    open_to    = ["Data Analyst", "Web Development", "Data & AI Engineering"]
+    location  = "Namakkal, Tamil Nadu"
+    education = "B.Tech AI & DS, KCE (2025)"
+    now       = "Consultant · 4 projects shipped"
+    open_to   = ["Data Analyst",
+                 "Web Development",
+                 "Data & AI Engineering"]
 
     def superpower(self):
-        return "Raw data → clean model → dashboard → decision"
+        return "Data → model → dashboard → decision"
 
     def motto(self):
-        return "Ship systems that scale. Build AI that works in the real world."
+        return "Ship systems that scale."
 ```
 
 <p>🔭 &nbsp;Building <b>BEACON</b>, an energy analytics platform for commercial buildings</p>
@@ -44,8 +46,8 @@ class Kartheeban:
 <p>💡 &nbsp;<b>Fun fact:</b> I removed the whole JVM stack (Hadoop &amp; Spark) and rebuilt a data lakehouse on DuckDB &amp; Parquet</p>
 
 </td>
-<td width="44%" valign="top" align="center">
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" alt="coding gif"/>
+<td width="40%" valign="middle" align="center">
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="340" alt="coding gif"/>
 </td>
 </tr>
 </table>
@@ -371,11 +373,15 @@ An edge-native tracker on Jetson Nano with no cloud dependency.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GKartheeban&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph"/>
+  <img src="https://ghchart.rshah.org/70a5fd/GKartheeban" width="90%" alt="Contribution chart"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GKartheeban&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="Trophies"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GKartheeban/GKartheeban/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GKartheeban/GKartheeban/output/github-snake.svg"/>
+    <img src="https://raw.githubusercontent.com/GKartheeban/GKartheeban/output/github-snake-dark.svg" width="100%" alt="Contribution snake"/>
+  </picture>
 </p>
 
 ---
